@@ -1,6 +1,8 @@
-# weather_service
+# memory game 
 
-Weather service
+A card game that tests your memory.
+All the cards are laid face down at the start. You flip two cards and if they match (same value) then you made progress. If not you try again.
+The matched cards are shown face up. Your goal is to match all the cards and make the whole deck face up with minimum number of guesses.
 
 ## Getting Started
 
